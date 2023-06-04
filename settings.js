@@ -78,11 +78,11 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
 // You Bots Owner Number 
 global.owner = ['733772709'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 « دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ » ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐌𝐑.𝐗 𝐁𝐎𝐓 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  'بوت « دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ »' 
+global.botnma =  '𝐌𝐑.𝐗 𝐁𝐎𝐓' 
 //👇 Your name
-global.ownernma =  'MR.X' 
+global.ownernma =  '« دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ »' 
 //👇 Sticker Author Name
 global.packname =  '« دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ »' 
 //👇 Inbox Block Massage 
