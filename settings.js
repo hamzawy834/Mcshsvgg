@@ -78,13 +78,13 @@ global.DISABLE_COMMAND_MESSAGE_SEND = false
 // You Bots Owner Number 
 global.owner = ['733772709'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐌𝐑.𝐗 𝐁𝐎𝐓 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐏𝐄𝐀𝐊𝐘 𝐁𝐋𝐈𝐍𝐃𝐄𝐑𝐒 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐌𝐑.𝐗 𝐁𝐎𝐓' 
+global.botnma =  '𝐏𝐄𝐀𝐊𝐘 𝐁𝐋𝐈𝐍𝐃𝐄𝐑𝐒 𝐁𝐎𝐓' 
 //👇 Your name
-global.ownernma =  '« دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ »' 
+global.ownernma =  '𝐌𝐀𝐒𝐓𝐄𝐑 𝐒𝐇𝐄𝐋𝐏𝐘' 
 //👇 Sticker Author Name
-global.packname =  '« دكتاتہۧﹻ۬ﹻ۬ﹻۧۧﹻ۬ﹻ۬۬وࢪ »' 
+global.packname =  '𝐌𝐀𝐒𝐓𝐄𝐑 𝐒𝐇𝐄𝐋𝐏𝐘' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
